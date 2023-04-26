@@ -1,0 +1,51 @@
+.kotak {
+  border: 1px solid white;
+  box-shadow: 0.75px 0.75px 0.75px 0.75px #808080;
+  border-radius: 5px;
+  background-color: white;
+  margin-top: -70px;
+  z-index: index 1;
+  position: relative;
+}
+
+.navbar {
+  height: 200px;
+}
+
+.logo1 {
+  padding-bottom: 120px;
+  padding-left: 50px;
+}
+.navbar1 {
+  padding-bottom: 120px;
+  padding-right: 150px;
+}
+
+.jumbotron {
+  width: 1550px;
+  height: 130px;
+}
+
+.user1 {
+  padding-left: 1px;
+  margin-top: -10px;
+}
+
+.mobil1 {
+  padding-left: 80px;
+}
+
+.orang {
+  color: #8a8a8a;
+  padding-left: 19px;
+  margin-top: -17px;
+}
+
+.gope {
+  margin-top: -25px;
+}
+
+/* .tombol {
+    padding-top: 30px;
+    padding-left: ;
+  } */
